@@ -1,4 +1,4 @@
-# Defense against fake Cyber Threat Intelligence through Deep Learning
+# IntelligentShield: Safeguarding Against Fake Cyber Threat Intelligence
 Code used for [IntelligentShield: Safeguarding Against Fake Cyber Threat Intelligence](http://).
 
 
