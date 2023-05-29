@@ -1,5 +1,5 @@
 # Defense against fake Cyber Threat Intelligence through Deep Learning
-Code used for [Defense against fake Cyber Threat Intelligence through Deep Learning](http://).
+Code used for [IntelligentShield: Safeguarding Against Fake Cyber Threat Intelligence](http://).
 
 
 
