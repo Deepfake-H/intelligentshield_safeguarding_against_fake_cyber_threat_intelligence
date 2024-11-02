@@ -1,5 +1,5 @@
-# IntelligentShield: Safeguarding Against Fake Cyber Threat Intelligence
-Code used for [IntelligentShield: Safeguarding Against Fake Cyber Threat Intelligence](http://).
+# Can LLM-Generated Misinformation Be Detected: a Study On Cyber Threat Intelligence
+Code used for [Can LLM-Generated Misinformation Be Detected: a Study On Cyber Threat Intelligence](http://).
 
 
 
